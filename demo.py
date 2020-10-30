@@ -7,4 +7,4 @@ this is six code
 this is seven code
 this is eight code
 this is nine code
-Creating a new branch is quick & simple
+Creating a new branch is quick and simple
